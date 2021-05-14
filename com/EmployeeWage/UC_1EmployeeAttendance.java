@@ -1,4 +1,4 @@
-package com.EmployeeWageUC2;
+package com.EmployeeWage;
 
 public class UC_1EmployeeAttendance {
 	
